@@ -1,0 +1,13 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/.idea.DotNetUtility/.idea/workspace.xml
+/.idea/.idea.DotNetUtility/.idea/.idea.DotNetUtility.iml
+/.idea/.idea.DotNetUtility/.idea/contentModel.xml
+/.idea/.idea.DotNetUtility/.idea/indexLayout.xml
+/.idea/.idea.DotNetUtility/.idea/modules.xml
+/.idea/.idea.DotNetUtility/.idea/projectSettingsUpdater.xml
+/.idea/.idea.DotNetUtility/.idea/vcs.xml
+/.idea/.idea.DotNetUtility/.idea/misc.xml
